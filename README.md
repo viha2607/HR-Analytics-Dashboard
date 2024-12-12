@@ -1,5 +1,5 @@
 # HR-Analytics-Dashboard
-empowering users to dynamically filter and explore specific data subsets for deeper insights and trend analysis. The dashboard facilitates answering critical questions at various levels, including company-wide, by department, and by gender. Key metrics addressed include:
+This is an Interactive HR Dashboard in Excel, empowering users to dynamically filter and explore specific data subsets for deeper insights and trend analysis. The dashboard facilitates answering critical questions at various levels, including company-wide, by department, and by gender. Key metrics addressed include:
 1) What is your age distribution?
 2) What is your performance rating distribution?
 3) What is your compa-ratio by tenure?
